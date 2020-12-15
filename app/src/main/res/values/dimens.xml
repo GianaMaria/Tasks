@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="fab">20dp</dimen>
+    <dimen name="fad_margin">20dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_0">0dp</dimen>
 </resources>
